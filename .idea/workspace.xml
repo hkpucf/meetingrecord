@@ -17,8 +17,8 @@
       <file leaf-file-name="sevenmeeting.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sevenmeeting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="75" column="10" lean-forward="false" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+            <state relative-caret-position="451">
+              <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -148,12 +148,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516772920126</updated>
       <workItem from="1516772922986" duration="2356000" />
-      <workItem from="1516805661416" duration="3267000" />
+      <workItem from="1516805661416" duration="3342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5623000" />
+    <option name="totallyTimeSpent" value="5698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -239,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sevenmeeting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="75" column="10" lean-forward="false" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+        <state relative-caret-position="451">
+          <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
           <folding />
         </state>
       </provider>
