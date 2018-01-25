@@ -54,12 +54,12 @@
       <file leaf-file-name="9thmeeting.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/9thmeeting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            <state relative-caret-position="247">
+              <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3675#3681#0" expanded="true" />
+                <element signature="e#3627#3633#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -236,12 +236,12 @@
       <workItem from="1516772922986" duration="2356000" />
       <workItem from="1516805661416" duration="6803000" />
       <workItem from="1516813320703" duration="2254000" />
-      <workItem from="1516867299226" duration="349000" />
+      <workItem from="1516867299226" duration="465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11762000" />
+    <option name="totallyTimeSpent" value="11878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -315,7 +315,7 @@
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3675#3681#0" expanded="true" />
+            <element signature="e#3627#3633#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -546,12 +546,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9thmeeting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="247">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3675#3681#0" expanded="true" />
+            <element signature="e#3627#3633#0" expanded="true" />
           </folding>
         </state>
       </provider>
